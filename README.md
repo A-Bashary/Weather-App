@@ -1,3 +1,3 @@
 # Weather-App
-A PWA weather app
+A React PWA weather app
 run npm install
